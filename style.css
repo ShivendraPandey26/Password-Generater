@@ -47,6 +47,7 @@ body {
     width: auto;
     height: 20px;
     margin: 20px 20px 0;
+    cursor: pointer;
 }
 
 #container samp input {
